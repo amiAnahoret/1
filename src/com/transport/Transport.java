@@ -2,7 +2,7 @@ package com.transport;
 
 import com.logistic.ComfortClass;
 
-public class Transport {
+public abstract class Transport {
     public int taxPerKm;
     public int speed;
     public double volume;
